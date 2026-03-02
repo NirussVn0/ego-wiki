@@ -14,11 +14,15 @@ order: 8
 
 Đài không thể được chế tạo, mà phải được **triệu hồi** thông qua một cấu trúc đa khối (Multi-block structure).
 
-1. Xây dựng một bệ đỡ bằng **8 Khối Đá Móc Đen (Polished Blackstone Bricks)** theo hình vuông 3x3, để trống ô ở giữa.
-2. Đặt một **Lõi Nặng Khảm Nạm (Cursed Heavy Core)** vào khoảng trống ở chính giữa.
-3. Nếu cấu trúc hợp lệ, một sự kiện sấm sét sẽ xảy ra và Đài Hiến Tế sẽ hiển thị dưới dạng luồng sáng ngọc tím (Hologram).
+![Cấu trúc Đài Hiến Tế Hư Vô](/images/void_altar_structure.png)
 
-> ⚠️ **Chú ý:** Lõi Nặng sau khi được đặt xuống sẽ bị trói buộc với thế giới và không thể bị phá vỡ hay thu hồi theo cách thông thường. Mọi nỗ lực phá huỷ sẽ dẫn đến hậu quả khó lường.
+1. Đặt 1 khối **Hắc Diện Thạch (Obsidian)** ở giữa.
+2. Đặt 8 khối **Vàng (Gold Block)** xung quanh khối Hắc Diện Thạch đó tạo thành bệ đỡ 3x3.
+3. Đặt 1 **Máy Phát Quái (Sculk Shrieker)** đè lên khối Hắc Diện Thạch ở tâm.
+4. Cuối cùng, hãy ném 1 **Dark Ego** vào Máy Phát Quái.
+5. Nếu cấu trúc hợp lệ, một sự kiện sấm sét sẽ xảy ra và Đài Hiến Tế sẽ hiển thị dưới dạng luồng sáng ngọc tím (Hologram).
+
+> ⚠️ **Chú ý:** Đài Hiến Tế sau khi được triệu hồi sẽ bị trói buộc với thế giới và không thể bị phá vỡ hay thu hồi (No Refund). Mọi nỗ lực phá huỷ sẽ làm đài biến mất và bạn mất luôn Dark Ego đã dùng để triệu hồi!
 
 ---
 

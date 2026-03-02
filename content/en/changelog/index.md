@@ -11,7 +11,7 @@ order: 3
 **Released: March 2026**
 
 **New features:**
-- 🔮 **Void Altar** — Summoned by placing a Cursed Heavy Core on an 8-block Polished Blackstone Brick structure.
+- 🔮 **Void Altar** — Summoned by placing a Sculk Shrieker on top of an Obsidian block surrounded by 8 Gold Blocks, then throwing a **Dark Ego** onto the Shrieker.
 - 🩸 **Blood Recharge** — The Altar consumes Charges to function; recharge it by sacrificing lives (Villagers) nearby.
 - 🎭 **Ego Awakening** — Throw an Ego into the Void Altar to awaken it into a Dark Ego.
 - ⚔️ **Cursed Crafting** — Throw floating ingredients near the Altar to forge the most powerful Artifacts.

@@ -14,11 +14,15 @@ The **Void Altar** is an ancient and malevolent structure. Unlike regular crafti
 
 The Altar cannot be crafted; it must be **summoned** using a multi-block structure.
 
-1. Build a base using **8 Polished Blackstone Bricks** in a 3x3 square, leaving the center block empty.
-2. Place a **Cursed Heavy Core** in the empty center space.
-3. If the structure is valid, a lightning strike will occur, and the Altar will manifest as a purple hologram.
+![Void Altar Structure](/images/void_altar_structure.png)
 
-> ⚠️ **Warning:** Once placed, the Heavy Core becomes bound to the world and cannot be broken or retrieved by normal means. Any attempt to destroy it will result in unforeseen consequences.
+1. Place 1 **Obsidian** block in the center.
+2. Place 8 **Gold Blocks** surrounding the Obsidian block, forming a 3x3 base.
+3. Place 1 **Sculk Shrieker** directly on top of the center Obsidian block.
+4. Finally, throw 1 **Dark Ego** onto the Sculk Shrieker.
+5. If the structure is valid, a lightning strike will occur, and the Altar will manifest as a purple hologram.
+
+> ⚠️ **Warning:** Once summoned, the Altar becomes bound to the world and cannot be broken or retrieved for a refund (No Refund). Any attempt to destroy it will wipe the altar and you will lose your Dark Ego used for summoning!
 
 ---
 

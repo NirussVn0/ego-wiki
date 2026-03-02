@@ -73,9 +73,16 @@ Ego Fragment đã mất đi sự tinh khiết sau khi bị dung hợp với Scul
 
 > *"Sự thuần khiết đôi khi là kết quả của việc cưỡng chế."*
 
-Tinh hoa được tạo ra từ việc ghép 4 viên Amethyst Shard trong bàn chế tạo. Đây là một viên đá tâm linh có khả năng gột rửa những thứ đã bị ô uế.
+Tinh hoa được tạo ra từ việc ghép 4 viên Amethyst Shard và 1 viên Echo Shard trong bàn chế tạo. Đây là một viên đá tâm linh có khả năng gột rửa những thứ đã bị ô uế.
 
-- **Nguồn gốc**: Ghép 4 Amethyst Shard trong Bàn chế tạo thường.
+- **Nguồn gốc**: Chế tạo trong Bàn chế tạo thường.
+
+| | Cột 1 | Cột 2 | Cột 3 |
+|---|:---:|:---:|:---:|
+| Hàng 1 |       | Amethyst Shard  |       |
+| Hàng 2 | Amethyst Shard  | **Echo Shard** | Amethyst Shard  |
+| Hàng 3 |       | Amethyst Shard  |       |
+
 - **Công dụng**: Dùng làm nguyên liệu trung tâm trong **Nghi Thức Bóc Tách Bản Ngã** (tháo Mảnh vỡ). Ngoài ra, còn nằm trong quy trình thanh tẩy Dark Ego.
 - **Tính chất**: Vật phẩm thông thường.
 

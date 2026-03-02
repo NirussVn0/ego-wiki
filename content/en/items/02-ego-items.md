@@ -94,13 +94,20 @@ Ego Fragment lost its purity after fusing with Sculk.
 
 ---
 
-<ItemCard id="purification-stone" name="Purification Stone" image="/wiki/items/ego_default.png" rarity="epic">
+<ItemCard id="purification-stone" name="Purification Stone" image="/wiki/items/purification_stone.png" rarity="epic">
 
 > *"Purity is sometimes the result of coercion."*
 
-Formed by combining 4 Amethyst Shards in a normal crafting grid. This is a spiritual stone capable of cleansing things that have been tainted.
+Formed by combining 4 Amethyst Shards and 1 Echo Shard in a normal crafting grid. This is a spiritual stone capable of cleansing things that have been tainted.
 
-- **Origin**: Crafted with 4 Amethyst Shards in a normal Crafting Table.
+- **Origin**: Crafted in a normal Crafting Table.
+
+| | Column 1 | Column 2 | Column 3 |
+|---|:---:|:---:|:---:|
+| Row 1 |       | Amethyst Shard  |       |
+| Row 2 | Amethyst Shard  | **Echo Shard** | Amethyst Shard  |
+| Row 3 |       | Amethyst Shard  |       |
+
 - **Usage**: Used as the core ingredient in the **Ego Purification Ritual** (to remove Shards). Additionally used to purify Dark Egos.
 - **Trait**: Normal item.
 

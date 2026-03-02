@@ -12,7 +12,7 @@ order: 3
 **Phát hành: Tháng 3/2026**
 
 **Tính năng mới:**
-- 🔮 **Đài Hiến Tế Hư Vô (Void Altar)** — Đặt Lõi Nặng Khảm Nạm lên cấu trúc 8 khối Đá Móc Đen để triệu hồi.
+- 🔮 **Đài Hiến Tế Hư Vô (Void Altar)** — Triệu hồi bằng cách đặt một Máy Phát Quái (Sculk Shrieker) nằm trên khối Hắc Diện Thạch (Obsidian) ở trung tâm 8 Khối Vàng, sau đó ném 1 **Dark Ego** vào Máy Phát Quái.
 - 🩸 **Cơ chế Huyết Sạc** — Đài tiêu tốn Charge để hoạt động, sạc lại bằng cách hiến tế sinh mạng (Dân Làng) gần đó.
 - 🎭 **Đánh thức Bản Ngã** — Ném Ego vào Đài Hư Vô để thăng cấp thành Dark Ego.
 - ⚔️ **Chế Tạo Nguyền Rủa** — Ném đúng các nguyên liệu lơ lửng quanh đài để rèn các Cổ vật mạnh nhất (Cuồng Thanh, Tàng Kiếm...).
