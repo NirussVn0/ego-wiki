@@ -53,7 +53,7 @@ Ego Fragment đã mất đi sự tinh khiết sau khi bị dung hợp với Scul
 | | Cột 1 | Cột 2 | Cột 3 |
 |---|:---:|:---:|:---:|
 | Hàng 1 | Sculk |  | Sculk |
-| Hàng 2 | Netherite Scrap | **[Bình Trấn Ngã](https://ego.sabicoder.xyz/vi/wiki/items/ego-items)** | Netherite Scrap |
+| Hàng 2 | Netherite Scrap | **[Bình Trấn Ngã](/vi/wiki/items/ego-items#ego-sealing-vessel--binh-tran-nga)** | Netherite Scrap |
 | Hàng 3 | Sculk |  | Sculk |
 
 - **Công dụng chính**: Nguyên liệu cốt lõi để rèn tại [Bàn Nguyền](/vi/wiki/items/cursed-crafting), lấy dark ego gián tiếp.

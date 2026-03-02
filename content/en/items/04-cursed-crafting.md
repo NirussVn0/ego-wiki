@@ -20,9 +20,9 @@ The Cursed Table does not appear naturally. You must **manually** build it.
 
 | | Column 1 | Column 2 | Column 3 |
 |---|:---:|:---:|:---:|
-| | | Ego soul | |
-| Obsidian | Crafting Table | Obsidian |
-| | Netherite Ingot | |
+| Row 1 | | **[Ego Sealing Vessel](/en/wiki/items/ego-items#ego-sealing-vessel)** | |
+| Row 2 | Obsidian | Crafting Table | Obsidian |
+| Row 3 | | Netherite Ingot | |
 
 **Result**: Cursed Crafting Table × 1
 

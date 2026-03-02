@@ -20,8 +20,8 @@ Tất cả công thức bên dưới yêu cầu [**Bàn Chế Tạo Nguyền**](
 
 | | Cột 1 | Cột 2 | Cột 3 |
 |---|:---:|:---:|:---:|
-| Hàng 1 |       | Netherite Ingot |       |
-| Hàng 2 |       | Heavy Core |       |
+| Hàng 1 |       | **Heavy Core** |       |
+| Hàng 2 |       | Netherite Ingot |       |
 | Hàng 3 |       | Breeze Rod |       |
 
 - **Linh hồn**: 0
@@ -35,8 +35,8 @@ Tất cả công thức bên dưới yêu cầu [**Bàn Chế Tạo Nguyền**](
 
 | | Cột 1 | Cột 2 | Cột 3 |
 |---|:---:|:---:|:---:|
-| Hàng 1 | Netherite Ingot | **HEAVY_CORE** | Netherite Ingot |
-| Hàng 2 | **[Bình Trấn Ngã Hắc Ám](https://ego.sabicoder.xyz/vi/wiki/items/ego-items)** | Mace of Power | **[Bình Trấn Ngã Hắc Ám](https://ego.sabicoder.xyz/vi/wiki/items/ego-items)** |
+| Hàng 1 | Netherite Ingot | **Heavy Core** | Netherite Ingot |
+| Hàng 2 | **[Bình Trấn Ngã Hắc Ám](/vi/wiki/items/ego-items#dark-ego-vessel--binh-tran-nga-hau-am)** | Mace of Power | **[Bình Trấn Ngã Hắc Ám](/vi/wiki/items/ego-items#dark-ego-vessel--binh-tran-nga-hau-am)** |
 | Hàng 3 | Netherite Ingot | **Wither Rose** | Netherite Ingot |
 
 - **Linh hồn**: 3
@@ -53,11 +53,12 @@ Tất cả công thức bên dưới yêu cầu [**Bàn Chế Tạo Nguyền**](
 
 | | Cột 1 | Cột 2 | Cột 3 |
 |---|:---:|:---:|:---:|
-| Hàng 1 | Enchanted Golden Apple | **[Bình Trấn Ngã](https://ego.sabicoder.xyz/vi/wiki/items/ego-items)** | Enchanted Golden Apple |
-| Hàng 2 | **[Đá Thanh Tẩy](/vi/wiki/items/ego-items)** | Netherite Ingot | **[Đá Thanh Tẩy](/vi/wiki/items/ego-items)** |
-| Hàng 3 | Enchanted Golden Apple | Totem of Undying | Enchanted Golden Apple |
+| Hàng 1 | Enchanted Golden Apple | **[Đá Thanh Tẩy](/vi/wiki/items/ego-items#da-thanh-tay--purification-stone)** | Enchanted Golden Apple |
+| Hàng 2 | **[Bình Trấn Ngã](/vi/wiki/items/ego-items#ego-sealing-vessel--binh-tran-nga)** | Netherite Ingot | Totem of Undying |
+| Hàng 3 | Enchanted Golden Apple | **[Đá Thanh Tẩy](/vi/wiki/items/ego-items#da-thanh-tay--purification-stone)** | Enchanted Golden Apple |
 
 - **Linh hồn**: 0
+- **Tiêu hao Cấp (Tier)**: 1
 - **Thời gian rèn**: 5 phút
 
 ---
