@@ -7,8 +7,8 @@ order: 3
 
 ## EgoSMP Plugin
 
-### VERSION 1.2.4 — VOID SACRIFICE & THE BETRAYER'S HUNT
-**Released: March 2026**
+### v1.2.4 — Void Sacrifice & The Betrayer's Hunt
+*Released: March 2026*
 
 **New features:**
 - 🔮 **Void Altar** — Summoned by placing a Sculk Shrieker on top of an Obsidian block surrounded by 8 Gold Blocks, then throwing a **Dark Ego** onto the Shrieker.
@@ -17,8 +17,8 @@ order: 3
 - ⚔️ **Cursed Crafting** — Throw floating ingredients near the Altar to forge the most powerful Artifacts.
 - 🔪 **"Betrayer's Hunt" Event** — A new 1-Life Survival Event. Defeat The Betrayer's Guardian to claim the Heart, and deliver it to the Win Zone to claim victory.
 
-### VERSION 1.2.3 — AN ERA OF ANNOUNCEMENT & WORSHIP
-**Released: February 2026**
+### v1.2.3 — An Era of Announcement & Worship
+*Released: February 2026*
 
 **Edit & Update:**
 - 🌑 **Survival Mechanism & Ego:**

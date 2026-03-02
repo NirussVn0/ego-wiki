@@ -8,8 +8,8 @@ order: 3
 
 ## EgoSMP Plugin
 
-### VERSION 1.2.4 — HIẾN TẾ HƯ VÔ & CUỘC SĂN KẺ PHẢN BỘI
-**Phát hành: Tháng 3/2026**
+### v1.2.4 — Hiến Tế Hư Vô & Cuộc Săn Kẻ Phản Bội
+*Phát hành: Tháng 3/2026*
 
 **Tính năng mới:**
 - 🔮 **Đài Hiến Tế Hư Vô (Void Altar)** — Triệu hồi bằng cách đặt một Máy Phát Quái (Sculk Shrieker) nằm trên khối Hắc Diện Thạch (Obsidian) ở trung tâm 8 Khối Vàng, sau đó ném 1 **Dark Ego** vào Máy Phát Quái.
@@ -18,8 +18,8 @@ order: 3
 - ⚔️ **Chế Tạo Nguyền Rủa** — Ném đúng các nguyên liệu lơ lửng quanh đài để rèn các Cổ vật mạnh nhất (Cuồng Thanh, Tàng Kiếm...).
 - 🔪 **Sự Kiện "Cuộc Săn Kẻ Phản Bội"** — Event Sinh Tồn 1-Life mới, tiêu diệt The Betrayer's Guardian để đoạt Quả Tim, mang về Win Zone an toàn để chiến thắng.
 
-### VERSION 1.2.3 — KỶ NGUYÊN VÔ DANH & TÔN SÙNG
-**Phát hành: Tháng 2/2026**
+### v1.2.3 — Kỷ Nguyên Vô Danh & Tôn Sùng
+*Phát hành: Tháng 2/2026*
 
 **Sửa đổi & Cập nhật:**
 - 🌑 **Cơ chế Sinh Tồn & Bản Ngã:**
