@@ -64,18 +64,20 @@ Sức mạnh lớn đi kèm với sự điên loạn không thể kiểm soát.
 
 ---
 
-## 💀 Mất Tier Khi Chết
+## 💀 Tỉ Lệ Mất Tier Khi Chết
 
-Theo mặc định, tier chỉ bị reset khi bạn **bị giết bởi người chơi khác** (PvP).  
-Chết vì mob, rơi, dung nham, hoặc bất kỳ nguyên nhân nào khác **không** làm mất tier.
+Mỗi tầng thứ của Bản Ngã đều đòi hỏi một cái giá phải trả khi gục ngã trước kẻ thù. Tổn thất Tier phụ thuộc vào hệ cấp bậc của bạn:
+
+### Phân Cấp Mất Tier:
+- **Nguyên Khởi / Vô Niệm (Tier -1)**: Đáy vực thẳm. Bạn không còn gì để mất (Kháng 100% rớt tier).
+- **Thức Tỉnh (Tier 0-2)**: Chết sẽ bị đẩy lùi **1 Tier**.
+- **Cao Giai / Chấn Thực (Tier 3-6)**: Trả giá đắt hơn, chết sẽ rớt ngẫu nhiên từ **2 đến 3 Tier**.
+- **Thượng Đỉnh / Chân Ngã (Tier 7-9)**: Vực thẳm trừng phạt kẻ bề trên. Gục ngã sẽ khiến bạn mất trắng từ **3 đến 4 Tier**.
 
 > *"Chỉ có sự phản bội giữa đồng loại mới đủ sức kéo ngươi khỏi vực thẳm."*
 
-### Quy Tắc:
-- ✅ Bị người chơi tấn công trực tiếp → **mất tier**
-- ✅ Bị bắn bởi mũi tên/projectile từ người chơi → **mất tier**
-- ❌ Chết vì mob, rơi, cháy, v.v. → **giữ nguyên tier**
-- 🛡 Sử dụng **[Soul Keeper](/vi/wiki/items/ego-items#soul-keeper)** → **bảo vệ tier** và **ngăn rớt Ego** dù chết bất kỳ cách nào
+### Quy Tắc Chung:
+- ✅ Sử dụng **[Soul Keeper](/vi/wiki/items/ego-items#soul-keeper)** → **bảo vệ tier** và **ngăn rớt Ego** ở tất cả các cấp.
 
 
 ## 🔗 Các Trang Liên Quan

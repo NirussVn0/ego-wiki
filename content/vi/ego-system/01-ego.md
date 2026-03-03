@@ -35,14 +35,14 @@ một cái giá nhỏ để nhắc bạn rằng “Ego luôn lấy lại phần 
 
 Nếu bạn vẫn sống sót và không gục trong hỗn loạn, Ego của bạn sẽ ổn định hơn theo thời gian — “bản ngã” không còn dễ vỡ như lúc ban đầu.
 
-## Tier Ego (0 → 9)
+## Tier Ego (-1 → 9)
 Nó đo **bạn đã lún sâu vào vực thẳm bao nhiêu**.
 
-Mỗi tier là một tầng địa ngục sâu hơn — và cũng là một ngưỡng sức mạnh mới.
-
-- Tier 0: người thường, chưa bản ngã hoá.
-- Tier 1: bắt đầu bản ngã hoá (đủ để thế giới nhận ra bạn “đã đổi khác”).
-- Tier 9: hình thái cực hạn — không còn là “cầm sức mạnh”, mà là “sống chung với nó”.
+Hệ thống được chia thành 4 cấp độ chính:
+- **Vô Niệm (Tier -1)**: Đáy vực thẳm, không còn gì để mất, không bị rớt Tier khi chết.
+- **Thức Tỉnh (Tier 0-2)**: Phàm nhân vừa chạm ngõ quyền năng, rớt **1 Tier** khi chết.
+- **Chấn Thực (Tier 3-6)**: Kẻ khao khát quyền lực, trả giá bằng sự tuột dốc **2 đến 3 Tier** khi chết.
+- **Chân Ngã (Tier 7-9)**: Hiện thân của vực thẳm, một lần gục ngã sẽ bị tước đoạt từ **3 đến 4 Tier**.
 
 (Chi tiết quyền lợi từng tier xem ở trang [Tier System](./02-tier-system).)  
 
