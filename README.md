@@ -10,6 +10,8 @@
 [![React](https://img.shields.io/badge/UI-REACT_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Tailwind](https://img.shields.io/badge/STYLE-TAILWIND_V4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/LICENSE-ENCL-red?style=for-the-badge)](./LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/EgoSMP/ego-wiki?style=for-the-badge&logo=github&color=333333)](https://github.com/EgoSMP/ego-wiki)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jRqnNbupj4)
 
 ---
 
