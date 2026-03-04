@@ -38,8 +38,8 @@ không phải huyền tích, mà là những uất hận bị xiềng xích tron
 | Slot 1 (trái) | **SHIFT + CHUỘT TRÁI** |
 | Slot 2 (phải) | **SHIFT + CHUỘT PHẢI** |
 
-> ⚔️ **Mảnh Vỡ Chủ Động** yêu cầu đang cầm **vũ khí cận chiến**
-> (kiếm, rìu, chùy) mới có thể kích hoạt (hoặc một số điều kiện đặc biệt).
+> ⚔️ **Mảnh Vỡ Chủ Động** yêu cầu đang cầm **vũ khí** trong tay chính
+> (kiếm, rìu, cuốc, xẻɬng, chùy, đinh ba) mới có thể kích hoạt.
 > **Mảnh Vỡ Bị Động** luôn hoạt động ngầm khi được lắp, bất kể vị trí slot.
 
 ---
@@ -73,8 +73,8 @@ Mỗi loại Mảnh Vỡ chỉ tồn tại **MỘT VÀ CHỈ MỘT** trong toàn
 |---------|------|------|-----------|----------------------|
 | [🗡️ Mảnh Vỡ Kẻ Tàng Kiếm](#manh-vo-ke-tang-kiem) | Bị Động | 3+ | 20% phản 15% tổn thương cận chiến + Độc 3s | Tiềm tàng |
 | [🩸 Mảnh Vỡ Kẻ Huyết Lang](#manh-vo-ke-huyet-lang) | C/B | 3+ | Bị Động: Sinh lực < 30% → x3 sát thương (5s). Chủ Động: Chìm trong huyết quang rực rỡ (1 phút) | Bị Động: Chịu đòn. C.Động: CD 10 phút |
-| [🌑 Mảnh Vỡ Kẻ Vô Danh](#manh-vo-ke-vo-danh) | Chủ Động | 3+ | Tịch mịch hoàn toàn: Xóa bóng & giáp 8 phút (Chết ẩn danh) | CD 15 phút |
-| [🌘 Mảnh Vỡ Kẻ Ảnh Huyết](#manh-vo-ke-anh-huyet) | Chủ Động | 3+ | Lao 8 khối + Tàng hình. Tích lũy 3 lượt Lướt với hiệu ứng cường hoá (Hồi phục, Tăng Max HP). Để lại Tà Khí độc hại. | 3 Lượt, CD 60s |
+| [🌑 Mảnh Vỡ Kẻ Vô Danh](#manh-vo-ke-vo-danh) | Chủ Động | 3+ | Tịch mịch hoàn toàn: Xóa bóng & giáp 8 phút (Chết ẩn danh) | CD 25 phút (tính từ lúc hết tàng hình) |
+| [🌘 Mảnh Vỡ Kẻ Ảnh Huyết](#manh-vo-ke-anh-huyet) | Chủ Động | 3+ | Lao 8 khối + Tàng hình. Tích lũy 3 lượt Lướt. Dưới 6HP bị Slowness 2 + không dùng được. | 3 Lượt (timeout 10s), CD 30s |
 | [💀 Mảnh Vỡ Kẻ Cuồng Thanh](#manh-vo-ke-cuong-thanh) | C/B | 3+ | Bị Động: Phản kích Sonic Boom. Chủ Động (15s): 20% nguyền rủa Warden (10s) + bộc phát Shrieker | B.Động CD 30s. C.Động CD 30s |
 | [☁️ Mảnh Vỡ Kẻ Ngạo Thiên](#manh-vo-ke-ngao-thien) | Chủ Động | 3+ | Bắn tung 10 khối + Ép nạn nhân (bán kính 10 khối) phủ phục 3s | CD 60s |
 | [🍖 Mảnh Vỡ Kẻ Nuốt Trọn Thể Xác](#manh-vo-ke-nuot-tron-the-xac) | C/B | 3+ | Bị Động: Chảy máu (True Dmg) + Regen III. Chủ Động: Đoạt Max HP | B.Động: Cận chiến. C.Động: CD 10m |
@@ -171,13 +171,13 @@ Khắc cuối đời, hắn tan biến giữa thanh thiên bạch nhật. Tịch
 - Yêu cầu **Tier 3+** để phong ấn và thức tỉnh.
 - **Quyền năng (Chủ Động)**: Khi thức tỉnh → **Chìm vào cõi câm lặng hoàn toàn và tự động che khuất giáp trụ trong 8 phút**. Bất cứ sinh linh nào gục ngã dưới tay bạn sẽ chỉ nhận được bi kịch do **KẺ VÔ DANH** tước đoạt.
 - Giáp trụ sẽ nguyên vẹn trở lại khi thoát ly trạng thái, hoặc rời cõi.
-- **Thời gian ngủ đông**: **15 phút**.
+- **Thời gian ngủ đông**: **25 phút** (tính từ lúc hết tàng hình). Có thể tắt tàng hình sớm bằng cách ngồi + click chuột phải lần nữa.
 
 | | Cột 1 | Cột 2 | Cột 3 |
 |---|:---:|:---:|:---:|
-| Hàng 1 | Fermented Spider Eye ×16 | Phantom Membrane ×16 | Fermented Spider Eye ×16 |
+| Hàng 1 | Fermented Spider Eye ×64 | Phantom Membrane ×16 | Fermented Spider Eye ×64 |
 | Hàng 2 | Phantom Membrane ×16 | **[Bình Trấn Ngã Hắc Ám](https://ego.sabicoder.xyz/vi/wiki/items/ego-items)** | Phantom Membrane ×16 |
-| Hàng 3 | Fermented Spider Eye ×16 | Ink Sac ×32 | Fermented Spider Eye ×16 |
+| Hàng 3 | Fermented Spider Eye ×64 | Lapis Block ×32 | Fermented Spider Eye ×64 |
 
 > 🔮 **Ý nghĩa nguyên liệu**: Fermented Spider Eye = nguyên liệu pha chế Thuốc Tàng Hình trong vanilla MC (!), Phantom Membrane = kẻ săn mồi vô hình chỉ xuất hiện khi bạn không ngủ, Ink Sac = mực xoá tên — xoá danh tính.
 
@@ -206,7 +206,9 @@ lạnh lẽo như vòm trời vỡ và chớp nhoáng tựa lưỡi hái vong li
   - **Lần 2**: Bóng đêm kéo dài **10 giây** kèm theo **Regen I (2s)** chữa lành.
   - **Lần 3**: Bóng tối tịch mịch **15 giây**, ban phát **Regen III (5s)** và kích thích tiềm năng sinh tồn **Tăng Max HP thêm 20 máu (30 giây)**.
 - **Lời Nguyền Tà Khí**: Mỗi lần lướt để lại một vết nứt khói tà khí xé toạc không gian. Chúng sinh lọt vào màn sương này sẽ gánh chịu **Wither II, Độc, Buồn Nôn và Mù Lòa trong 3 giây**.
-- **Thời gian ngủ đông**: **60 giây** sau khi kiệt sức ở lượt lướt thứ 3.
+- ⚠️ **Điều kiện**: Sinh lực dưới **6 HP** → bị **Slowness 2** và không thể sử dụng.
+- ⏱️ **Combo Timeout**: Không lướt tiếp trong **10 giây** → combo tự reset + vào cooldown.
+- **Thời gian ngủ đông**: **30 giây** sau khi kiệt sức ở lượt lướt thứ 3 (hoặc khi combo timeout).
 
 | | Cột 1 | Cột 2 | Cột 3 |
 |---|:---:|:---:|:---:|

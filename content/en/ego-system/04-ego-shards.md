@@ -38,8 +38,8 @@ not a legend, but an imprisoned agony trapped in matter.
 | Slot 1 (left) | **SHIFT + LEFT CLICK** |
 | Slot 2 (right) | **SHIFT + RIGHT CLICK** |
 
-> ⚔️ **Active Shards** require holding a **melee weapon**
-> (sword, axe, mace) to activate (or some special conditions).
+> ⚔️ **Active Shards** require holding a **weapon** in main hand
+> (sword, axe, pickaxe, shovel, hoe, mace, trident) to activate.
 > **Passive Shards** always operate in the background when equipped, regardless of slot position.
 
 ---
@@ -73,8 +73,8 @@ Each type of Shard exists **ONE AND ONLY ONE** across the entire server.
 |---------|------|------|-----------|----------------------|
 | [🗡️ Hidden Blade Shard](#hidden-blade-shard) | Passive | 3+ | 20% chance to reflect 15% melee damage + Poison for 3s | Always active |
 | [🩸 Blood Wolf Shard](#blood-wolf-shard) | A/P | 3+ | Passive: HP < 30% → x3 dmg (5s). Active: Blood-red aura & Rage boost (1 min). | Passive: On hit. Active: CD 10m |
-| [🌑 Nameless Shard](#nameless-shard) | Active | 3+ | Abyssal silence: True invisibility & hides armor for 8 mins (Anonymous kill) | CD 15 min |
-| [🌘 Blood Shadow Shard](#blood-shadow-shard) | Active | 3+ | Dash 8 blocks + Invisibility. 3 Charges with escalating buffs (Regen, Max HP Boost). Leaves a toxic Abyssal trail. | 3 Charges, CD 60s |
+| [🌑 Nameless Shard](#nameless-shard) | Active | 3+ | Abyssal silence: True invisibility & hides armor for 8 mins (Anonymous kill) | CD 25 min (starts after invis ends) |
+| [🌘 Blood Shadow Shard](#blood-shadow-shard) | Active | 3+ | Dash 8 blocks + Invis. 3 Charges. Below 6HP → Slowness 2 + blocked. | 3 Charges (10s timeout), CD 30s |
 | [💀 Mad Sound Shard](#mad-sound-shard) | A/P | 3+ | Passive: Sonic Boom. Active(15s): 20% Warden curse(10s) + spawns Shrieker on kill | P.CD: 30s. A.CD: 30s |
 | [☁️ Sky Pride Shard](#sky-pride-shard) | Active | 3+ | Pierce the sky 10 blocks + Enforce targets (10-block radius) to bow for 3s | CD 60s |
 | [🍖 Flesh Devourer Shard](#flesh-devourer-shard) | A/P | 3+ | Passive: True DMG Bleed + Regen III. Active: Steal Max HP | P: Melee. A: CD 10m |
@@ -171,13 +171,13 @@ In his final twilight, he dissolved in broad daylight. Silent annihilation.
 - Requires **Tier 3+** to seal and awaken.
 - **Dominion (Active)**: Upon awakening → **Plunge into absolute stillness, concealing your armor and being for 8 minutes**. Any soul that perishes by your hand will only witness a tragedy claimed by **THE NAMELESS**.
 - Your armor emerges unscathed when parting from this state, or ascending from the realm.
-- **Slumber time**: **15 minutes**.
+- **Slumber time**: **25 minutes** (starts after invisibility ends). Can cancel early by sneaking + right-click again.
 
 | | Col 1 | Col 2 | Col 3 |
 |---|:---:|:---:|:---:|
-| Row 1 | Fermented Spider Eye ×16 | Phantom Membrane ×16 | Fermented Spider Eye ×16 |
+| Row 1 | Fermented Spider Eye ×64 | Phantom Membrane ×16 | Fermented Spider Eye ×64 |
 | Row 2 | Phantom Membrane ×16 | **[Dark Ego Sealing Vessel](https://ego.sabicoder.xyz/en/wiki/items/ego-items)** | Phantom Membrane ×16 |
-| Row 3 | Fermented Spider Eye ×16 | Ink Sac ×32 | Fermented Spider Eye ×16 |
+| Row 3 | Fermented Spider Eye ×64 | Lapis Block ×32 | Fermented Spider Eye ×64 |
 
 > 🔮 **Ingredient lore**: Fermented Spider Eye = THE vanilla invisibility potion ingredient (!), Phantom Membrane = unseen predators that appear only when you don't sleep, Ink Sac = ink that erases names — erasing identity.
 
@@ -206,7 +206,9 @@ frigid as a shattered sky and fleeting as a reaper's scythe.
   - **Charge 2**: Darkness extends to **10 seconds**, accompanied by healing **Regen I (2s)**.
   - **Charge 3**: Absolute silence for **15 seconds**, granting **Regen III (5s)** and stimulating survival instincts for **+20 Max HP (30 seconds)**.
 - **Abyssal Curse**: Each dash leaves behind a ruptured trail of abyssal smoke. Any unfortunate entity caught in this path will be afflicted by **Wither II, Poison, Nausea, and Blindness for 3 seconds**.
-- **Slumber time**: **60 seconds** after exhausting the 3rd charge.
+- ⚠️ **Condition**: Below **6 HP** → **Slowness 2** applied and skill is **blocked**.
+- ⏱️ **Combo Timeout**: No follow-up dash within **10 seconds** → combo resets + enters cooldown.
+- **Slumber time**: **30 seconds** after exhausting the 3rd charge (or on combo timeout).
 
 | | Col 1 | Col 2 | Col 3 |
 |---|:---:|:---:|:---:|
