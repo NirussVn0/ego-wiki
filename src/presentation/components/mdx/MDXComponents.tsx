@@ -39,10 +39,9 @@ const H1 = ({ children, id }: HeadingProps) => (
 const H2 = ({ children, id }: HeadingProps) => (
     <h2
         id={id}
-        className="font-display text-2xl md:text-3xl font-bold mt-12 mb-4 text-white flex items-center gap-2 text-glow-purple"
+        className="font-display text-2xl md:text-3xl font-bold mt-12 mb-4 text-white text-glow-purple"
         style={{ textShadow: '0 0 8px rgba(168, 85, 247, 0.3)' }}
     >
-        <span className="text-neon-cyan">#</span>
         {children}
     </h2>
 );
@@ -50,9 +49,8 @@ const H2 = ({ children, id }: HeadingProps) => (
 const H3 = ({ children, id }: HeadingProps) => (
     <h3
         id={id}
-        className="font-display text-xl font-semibold mt-8 mb-3 text-white flex items-center gap-2"
+        className="font-display text-xl font-semibold mt-8 mb-3 text-white"
     >
-        <span className="text-neon-purple">##</span>
         {children}
     </h3>
 );
@@ -98,9 +96,9 @@ const A = ({
     return (
         <Link
             href={href || "#"}
-            className="text-neon-cyan hover:text-white transition-colors link-underline inline-flex items-center gap-1"
+            className="text-neon-cyan hover:text-white transition-colors link-underline inline-flex items-center gap-1.5"
         >
-            <PointerHand size={14} className="rotate-90 origin-center" />
+            <PointerHand size={16} className="-rotate-12 flex-shrink-0" />
             <span>{children}</span>
         </Link>
     );
