@@ -3,6 +3,27 @@ import Link from "next/link";
 import Image from "next/image";
 import { ExternalLink } from "lucide-react";
 
+// Outline-only pointing hand icon (👉 style, stroke only, no fill)
+const PointingHandIcon = ({ size = 14, className = "" }: { size?: number; className?: string }) => (
+    <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width={size}
+        height={size}
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        className={className}
+    >
+        <path d="M18 8h2a2 2 0 0 1 2 2v1a2 2 0 0 1-2 2h-8" />
+        <path d="M10 13v-1a2 2 0 0 0-2-2 2 2 0 0 0-2 2v5a6 6 0 0 0 6 6h2a6 6 0 0 0 6-6v-2" />
+        <path d="M10 10V5a2 2 0 0 1 2-2 2 2 0 0 1 2 2v5" />
+        <path d="M14 10V8a2 2 0 0 1 2-2 2 2 0 0 1 2 2v2" />
+    </svg>
+);
+
 // ===== Custom MDX Component Types =====
 interface HeadingProps {
     children: ReactNode;
@@ -96,7 +117,7 @@ const A = ({
             href={href || "#"}
             className="text-neon-cyan hover:text-white transition-colors link-underline inline-flex items-center gap-1.5"
         >
-            <span className="flex-shrink-0 text-sm" aria-hidden="true">👉</span>
+            <PointingHandIcon size={14} className="flex-shrink-0" />
             <span>{children}</span>
         </Link>
     );
