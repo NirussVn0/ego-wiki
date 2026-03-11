@@ -21,12 +21,8 @@ export type WikiPageData = z.infer<typeof wikiPageSchema>;
 export async function createWikiPage({ title, category, slug, content, locale }: WikiPageData) {
     // 1. Auth Check (Double Layer Security)
     const session = await auth();
-    const userRoles = (session?.user as { roles?: string[] })?.roles || [];
-    const hasAdminRole = env.DISCORD_ADMIN_ROLE_ID
-        ? userRoles.includes(env.DISCORD_ADMIN_ROLE_ID)
-        : false; // Safe default: fail closed if role ID is not set
 
-    if (!session || !hasAdminRole) {
+    if (!session?.user?.isAdmin) {
         throw new Error("Unauthorized");
     }
 

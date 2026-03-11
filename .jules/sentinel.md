@@ -27,3 +27,8 @@
 **Vulnerability:** The Next.js `next.config.ts` allowed the `/_next/image` endpoint to fetch and optimize images from any `https://**` hostname. This exposes the application to Server-Side Request Forgery (SSRF) risks and excessive resource consumption.
 **Learning:** Next.js Image Optimization can act as an open proxy if not restricted. An attacker could force the server to repeatedly fetch and process large/malicious images from arbitrary domains.
 **Prevention:** Always use strict allowlists in `images.remotePatterns` for `next.config.ts`, specifically limiting domains to trusted origins like CDNs (e.g., `cdn.discordapp.com`).
+
+## 2025-03-10 - Inconsistent Admin Authorization Logic
+**Vulnerability:** The `createWikiPage` server action relied on a custom role check (`userRoles.includes(env.DISCORD_ADMIN_ROLE_ID)`) instead of using the centralized `session.user.isAdmin` property. This caused an authorization bypass/inconsistency where administrators granted access via `DISCORD_ADMIN_USER_IDS` were denied access, and it could also result in failing closed if the `DISCORD_ADMIN_ROLE_ID` was not set, despite other admin definitions existing.
+**Learning:** Re-implementing authorization logic in individual functions or endpoints leads to inconsistencies and potential bypasses. The application's definition of an "admin" is complex (combining user IDs and roles) and is correctly centralized in the `jwt` callback (`src/core/config/auth.ts`).
+**Prevention:** Always use the centralized `session.user.isAdmin` property or `AuthService.isAdmin()` for all administrative authorization checks. Do not re-implement custom role or ID checks in individual actions or routes.
